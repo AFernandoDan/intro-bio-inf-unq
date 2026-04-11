@@ -40,7 +40,7 @@ class TestProteina(unittest.TestCase):
 
     def test_proteina_repr(self):
         proteina = Proteina("MiProteina", [Aminoacido.glicina()])
-        self.assertEqual(repr(proteina), "Proteina: MiProteina (1 residuos)")
+        self.assertEqual(repr(proteina), "Proteina(MiProteina, n=1, secuencia='G')")
 
     def test_proteina_sin_secuencia_levanta_error(self):
         with self.assertRaises(ValueError):

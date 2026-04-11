@@ -21,4 +21,5 @@ class Proteina:
         return suma_masas - (n_enlaces * MASA_H2O)
 
     def __repr__(self):
-        return f"Proteina: {self.nombre} ({len(self.secuencia)} residuos)"
+        secuencia_lineal = "".join(aa.simbolo for aa in self.secuencia)
+        return f"Proteina({self.nombre}, n={len(self.secuencia)}, secuencia='{secuencia_lineal}')"
