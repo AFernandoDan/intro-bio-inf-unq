@@ -1,0 +1,35 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+WP_037127040.1_cytochrome_c_family_protein_[Rhizobium_sp._CF097]               MRNQILMIGLSAAVLCPIGALAQEGDAEAGAAIF-KKCATCHIVESD-TNKVGPSLKGLF	58
+NP_001285984.1_cytochrome_c_proximal,_isoform_B_[Drosophila_melanogaster]      -------------------MGVPAGDVEKGKKLFVQRCAQCHTVEAGGKHKVGPNLHGLI	41
+NP_061820.1_cytochrome_c_[Homo_sapiens]                                        -----------------------MGDVEKGKKIFIMKCSQCHTVEKGGKHKTGPNLHGLF	37
+bartmosca                                                                      ---------------------MGSGDAENGKKIFVQKCAQCHTYEVGGKHKTGPNLHGLF	39
+CBJ31344.1_Cytochrome_c_[Ectocarpus_siliculosus]                               ------------------------MSTKAGAKIFKTKCSQCHTVEKDAGHKQGPNLNGLF	36
+KAE8767936.1_Cytochrome_c_[Hordeum_vulgare]                                    --------------MAS-FGEAPAGNAAGGEKIFKTKCAQCHTVERDGAHKQGPNLSGLF	45
+QEE59979.1_cytochrome_c_[Betula_platyphylla]                                   --------------MAS-FDEAPPGNPKVGEKIFKTKCAQCHTVEKGAGHKQGPNLNGLF	45
+KAE9612850.1_Cytochrome_c_[Lupinus_albus]                                      --------------MAS-FDQAPPGDAKVGEKIFKTKCAQCHTVDKGAGHKQGPNLNGLF	45
+NP_001363126.1_cytochrome_c_[Vigna_radiata]                                    --------------MAS-FDEAPPGNSKSGEKIFKTKCAQCHTVDKGAGHKQGPNLNGLF	45
+                                                                                                        .   *  :*  :*: **  : .  :* **.* **:
+
+WP_037127040.1_cytochrome_c_family_protein_[Rhizobium_sp._CF097]               GRKAGTHPDFSYSSAMKAAGEGGLVWDETTLRDYLHNPKAKVKGTKMAFVGVKKDDEITN	118
+NP_001285984.1_cytochrome_c_proximal,_isoform_B_[Drosophila_melanogaster]      GRKTGQAAGFAYTDANKA---KGITWNEDTLFEYLENPKKYIPGTKMIFAGLKKPNERGD	98
+NP_061820.1_cytochrome_c_[Homo_sapiens]                                        GRKTGQAPGYSYTAANKN---KGIIWGEDTLMEYLENPKKYIPGTKMIFVGIKKKEERAD	94
+bartmosca                                                                      GRKTGQAPGYSYTAANKN---KGIIWGEDTLMEYLENPKKYIPGTKMIFVGIKKKEERAD	96
+CBJ31344.1_Cytochrome_c_[Ectocarpus_siliculosus]                               GRTAGTVDGYSYSTANKT---SGVLWDESSLFDYLLAPKKYIKGTKMVFAGIKKPAERKE	93
+KAE8767936.1_Cytochrome_c_[Hordeum_vulgare]                                    GRQSGTTAGYAYSTANKN---MAVVWEENTLYDYLLNPKKYIPGTKMVFPGLKKPQERVD	102
+QEE59979.1_cytochrome_c_[Betula_platyphylla]                                   GRQSGTTAGYSYSSANKN---MAVNWEEKTLYDYLLNPKKYIPGTKMVFPGLKKPQDRAD	102
+KAE9612850.1_Cytochrome_c_[Lupinus_albus]                                      GRQSGTTAGYSYSTANKN---MAVNWEEKTLYDYLLNPKKYIPGTKMVFPGLKKPQDRAD	102
+NP_001363126.1_cytochrome_c_[Vigna_radiata]                                    GRQSGTTAGYSYSTANKN---MAVIWEEKTLYDYLLNPKKYIPGTKMVFPGLKKPQDRAD	102
+                                                                               ** :*   .::*: * *     .: * * :* :**  **  : **** * *:**  :  :
+
+WP_037127040.1_cytochrome_c_family_protein_[Rhizobium_sp._CF097]               LIAYLKQFP--	127
+NP_001285984.1_cytochrome_c_proximal,_isoform_B_[Drosophila_melanogaster]      LIAYLKSATK-	108
+NP_061820.1_cytochrome_c_[Homo_sapiens]                                        LIAYLKKATNE	105
+bartmosca                                                                      LIAYLKKATNE	107
+CBJ31344.1_Cytochrome_c_[Ectocarpus_siliculosus]                               LIAYLKEATAP	104
+KAE8767936.1_Cytochrome_c_[Hordeum_vulgare]                                    LIAYLKQSTA-	112
+QEE59979.1_cytochrome_c_[Betula_platyphylla]                                   LISYLKESTAS	113
+KAE9612850.1_Cytochrome_c_[Lupinus_albus]                                      LIAYLKESTAQ	113
+NP_001363126.1_cytochrome_c_[Vigna_radiata]                                    LIAYLKESTA-	112
+                                                                               **:***.    
